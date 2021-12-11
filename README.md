@@ -11,5 +11,3 @@
 - HTML
 - CSS [style/Presentation]
 - Javascript [Logic/Working of calculator]
-
-https://kamit20799.github.io/Simple-Calculator/
